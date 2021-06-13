@@ -1,12 +1,13 @@
-# Laurel
+# Huddle
+Say hello to Huddle, a bold, techy site template.
 
-A landing page template.
+[Papaya](https://www.papayatemplates.com)
+[@jrdnbwmn](https://www.twitter.com/jrdnbwmn)
 
-* [Getting started](#getting-started)
+Demo images from [Unsplash](https://unsplash.com/).
+Icons from [Entypo](http://entypo.com/).
 
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
+## Instructions
+For local development, run `npm install` on the main directory and then `gulp` to get BrowserSync going along with all the Gulp tasks (see [Pear](https://github.com/jrdnbwmn/Pear)).
 
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+Development files are in `src`. Everything is compiled into `dist`—that’s where all your final files reside.
