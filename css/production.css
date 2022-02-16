@@ -9,6 +9,15 @@ h1{
 .welcometext{
   margin: auto;
   width: 50%;
-  border: 3px solid green;
   padding: 10px;
 }
+
+body {
+    background-image:url('folder/image.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
