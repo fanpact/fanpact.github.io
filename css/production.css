@@ -12,20 +12,10 @@ h1{
   padding: 10px;
 }
 
-body {
-    background-image:url('https://github.com/fanpact/fanpact.github.io/blob/main/img/fp.gif');
-    background-size:100%;
-    background-repeat: repeat-y;
-    background-attachment: fixed;
-    height:100%;
-    width:100%;
-}
-
-
 
 .footer-basic {
   padding:40px 0;
-  background-color:#ffffff;
+  background-color:##D1C5DF;
   color:#4b4c4d;
 }
 
