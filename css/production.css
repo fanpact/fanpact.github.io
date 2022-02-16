@@ -2,14 +2,13 @@ body {
   background-color: #F5F0E0;
 }
 
-h1{
-  font-family: 'Bungee';
-}
+
 
 .welcometext{
   margin: auto;
   width: 50%;
   padding: 10px;
+  font-family: 'Bungee';
 }
 
 
